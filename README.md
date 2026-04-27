@@ -16,6 +16,12 @@ Atualmente estou construindo minha base em programação, focando em lógica e l
 
 ---
 
+## 📂 Projetos
+
+🔹 [Olá Mundo em C](https://github.com/christian-lv/ola-mundo)
+
+___
+
 ## 🚀 Tecnologias em aprendizado
 
 ![C](https://img.shields.io/badge/C-blue)
